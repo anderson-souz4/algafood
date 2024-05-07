@@ -4,7 +4,7 @@
 ![Spring](https://img.shields.io/badge/Spring-3.2.3-green)
 
 ## Descrição
-Algafood é um projeto de exemplo para um sistema de gerenciamento de restaurantes e pedidos.
+Algafood é um projeto de exemplo para um sistema de gerenciamento de restaurantes e pedidos feito atráves do curso Especialista Spring Rest da AlgaWorks.
 
 ## Tecnologias
 - Java 17
