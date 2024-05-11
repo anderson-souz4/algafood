@@ -17,7 +17,7 @@ Algafood é um projeto de exemplo para um sistema de gerenciamento de restaurant
 
 ## Configuração
 1. Certifique-se de ter o Java 17 instalado em sua máquina.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/algafood.git`
+2. Clone este repositório: `git clone https://github.com/anderson-souz4/algafood.git`
 3. Navegue até o diretório do projeto: `cd algafood`
 4. Compile o projeto usando Maven: `mvn clean install`
 5. Execute a aplicação: `java -jar target/algafood.jar`
